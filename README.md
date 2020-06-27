@@ -3,4 +3,5 @@ This is my another android app development project. It contains Login activity w
 It contains a login screen. So, use the following login credential:
 
 Mobile number- 0123456789
+
 Password- tony/steve/hulk/         (Use any one of them)
