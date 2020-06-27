@@ -4,4 +4,4 @@ It contains a login screen. So, use the following login credential:
 
 Mobile number- 0123456789
 
-Password- tony/steve/hulk/         (Use any one of them)
+Password- tony/steve/hulk         (Use any one of them)
